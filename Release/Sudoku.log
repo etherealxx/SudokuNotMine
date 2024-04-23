@@ -1,0 +1,16 @@
+﻿  Board.cpp
+  Cell.cpp
+  Challenge.cpp
+  ChallengeFactory.cpp
+  ChallengeLoader.cpp
+  Easy.cpp
+  GameManager.cpp
+  Hard.cpp
+  main.cpp
+  Medium.cpp
+  Player.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 363 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Sudoku.vcxproj -> D:\Repositories\Sudoku\Release\Sudoku.exe
